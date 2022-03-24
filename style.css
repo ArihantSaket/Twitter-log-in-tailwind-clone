@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+.center{
+    padding-left: 690px;
+}
+.text{
+    padding-left: 515px;
+    width: 190px;
+}
+
+.texter{
+    padding-left: 647px;
+}
+.wid{
+    width: 29rem;
+}
+.weightfon{
+    font-size: 22px;
+}
+.fluttu{
+    padding-left: 550px;
+    width: 780px;
+}
+.passmein{
+    padding-bottom: 120px;
+}
+
+@tailwind utilities;
